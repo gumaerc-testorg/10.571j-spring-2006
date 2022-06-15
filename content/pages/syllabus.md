@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course prerequisites, description, textbooks, readings
+  and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ This course has no required text. The following optional text can be used as a s
 
 Seinfeld, J. H., and S. N. Pandis. _Atmospheric Chemistry and Physics: From Air Pollution to Climate Change_. New York, NY: Wiley-Interscience, 1997. ISBN: 9780471178163. (Paperback.)
 
-Additional references organized by topics are listed in the [readings]({{< baseurl >}}/pages/readings) section.
+Additional references organized by topics are listed in the {{% resource_link 513413dd-7efb-03fd-c05d-0be8f3b48c8b "readings" %}} section.
 
 Grading
 -------
