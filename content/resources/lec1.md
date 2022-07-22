@@ -5,6 +5,7 @@ file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/6205b148f78
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec1.pdf
 uid: 6205b148-f789-84e9-d607-37b2c2823b10
 ---
 Lecture presentation.
-

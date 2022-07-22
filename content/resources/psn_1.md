@@ -5,6 +5,7 @@ file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/c24462324d5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: psn_1.pdf
 uid: c2446232-4d52-8863-75ca-0e6dc64e6095
 ---
 Homework assignment.
-

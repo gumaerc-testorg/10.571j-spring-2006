@@ -7,6 +7,7 @@ file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/e8d16ce3999
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec24.pdf
 uid: e8d16ce3-9994-9cc3-2477-17232dba3deb
 ---
 Lecture presentation covering kalman filter equations, review of the CH4 inverse problem, estimation of the steady fluxes and errors, samoa observation model and summary.
-

@@ -5,6 +5,7 @@ file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/327df564872
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec22.pdf
 uid: 327df564-8728-4568-0ea7-d93aef680c3a
 ---
 Lecture presentation covering kalman filter equations.
-

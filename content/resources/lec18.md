@@ -6,6 +6,7 @@ file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/8f193e94857
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec18.pdf
 uid: 8f193e94-8573-a293-41d6-9bd19bd0813c
 ---
 Lecture presentation covering chemical transport models, model for atmospheric transport and chemistry and methane simulations.
-

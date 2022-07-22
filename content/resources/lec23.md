@@ -7,6 +7,7 @@ file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/aa5f163b36a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec23.pdf
 uid: aa5f163b-36a0-66ac-07b3-c09cc7f4fc74
 ---
 Lecture presentation covering information on handling model and calibration error in inversions, optimal estimation examples and methane inverse studies using match.
-
