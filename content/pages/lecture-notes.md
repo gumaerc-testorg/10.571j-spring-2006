@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A collection of lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 72175500-1d85-0159-fef3-d1905422d4cc
 ---
@@ -33,7 +37,7 @@ INSTRUCTORS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Properties of the Atmosphere ([PDF]({{< baseurl >}}/resources/lec1))
+Introduction, Properties of the Atmosphere ({{% resource_link 6205b148-f789-84e9-d607-37b2c2823b10 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P, M
@@ -129,7 +133,7 @@ M
 9-11
 {{< tdclose >}}
 {{< tdopen >}}
-Atmospheric Chemistry and Transport: Continuity Equation and Basic Structures ([PDF 1]({{< baseurl >}}/resources/lec9)) ([PDF 2]({{< baseurl >}}/resources/lec10))
+Atmospheric Chemistry and Transport: Continuity Equation and Basic Structures ({{% resource_link b8f2567f-1765-27bf-69a0-29c59498c7a3 "PDF 1" %}}) ({{% resource_link e1962e65-3a0f-9c23-7b1e-c4c4bcc4571a "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P
@@ -177,7 +181,7 @@ M
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Atmospheric Transport Models: Numerical Integration ([PDF]({{< baseurl >}}/resources/lec11))
+Atmospheric Transport Models: Numerical Integration ({{% resource_link 59f4e091-89e9-e8cd-c54e-4d20654b0b2e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P
@@ -189,7 +193,7 @@ P
 19-21
 {{< tdclose >}}
 {{< tdopen >}}
-Atmospheric Chemical Transport Models: Examples and Measurement Systems ([PDF 1]({{< baseurl >}}/resources/lec18)) ([PDF 2]({{< baseurl >}}/resources/lec19)) ([PDF 3]({{< baseurl >}}/resources/lec20))
+Atmospheric Chemical Transport Models: Examples and Measurement Systems ({{% resource_link 8f193e94-8573-a293-41d6-9bd19bd0813c "PDF 1" %}}) ({{% resource_link 42bb0fc1-b384-aabe-0b98-316a50073f1f "PDF 2" %}}) ({{% resource_link 11854d81-aa43-1695-75be-0a848fd6a05e "PDF 3" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P
@@ -201,7 +205,7 @@ P
 22-24
 {{< tdclose >}}
 {{< tdopen >}}
-Inverse Methods: Optimal Estimation ([PDF 1]({{< baseurl >}}/resources/lec21)) ([PDF 2]({{< baseurl >}}/resources/lec22)) ([PDF 3]({{< baseurl >}}/resources/lec23))
+Inverse Methods: Optimal Estimation ({{% resource_link dbcb0198-693c-e0a3-336b-8ea1de13a0d4 "PDF 1" %}}) ({{% resource_link 327df564-8728-4568-0ea7-d93aef680c3a "PDF 2" %}}) ({{% resource_link aa5f163b-36a0-66ac-07b3-c09cc7f4fc74 "PDF 3" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P
@@ -213,7 +217,7 @@ P
 25-26
 {{< tdclose >}}
 {{< tdopen >}}
-Inverse Methods: Examples ([PDF 1]({{< baseurl >}}/resources/lec24)) ([PDF 2]({{< baseurl >}}/resources/lec26))
+Inverse Methods: Examples ({{% resource_link e8d16ce3-9994-9cc3-2477-17232dba3deb "PDF 1" %}}) ({{% resource_link 54deead7-59ad-f73c-af11-a9fb189a76f4 "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P
@@ -225,7 +229,7 @@ P
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Integrated Assessment of Climate Change ([PDF - 1.4 MB]({{< baseurl >}}/resources/lec27))
+Integrated Assessment of Climate Change ({{% resource_link d651940d-e6a7-148d-4ee4-6c320f9f7df2 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 P

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains lecture topics with their respective instructor.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 733c2afa-e158-390e-0a39-d7c70731bb52
 ---
