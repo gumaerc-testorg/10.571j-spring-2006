@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/e1962e653a0f9c237b1ec4c4bcc4571a_lec10.pdf
+file_size: 76105
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
