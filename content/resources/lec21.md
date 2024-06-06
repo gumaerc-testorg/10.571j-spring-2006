@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation covering estimating surface/internal sources and
   sinks, measurement equation and optimal equation.
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/dbcb0198693ce0a3336b8ea1de13a0d4_lec21.pdf
+file_size: 262622
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
