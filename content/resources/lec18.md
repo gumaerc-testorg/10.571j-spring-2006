@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation covering chemical transport models, model for atmospheric
   transport and chemistry and methane simulations.
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/8f193e948573a29341d69bd19bd0813c_lec18.pdf
+file_size: 549898
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
