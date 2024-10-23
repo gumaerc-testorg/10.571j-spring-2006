@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on integration of the science and
   economics of climate change and the major analytical tool of the global change joint
   program.
-file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/d651940de6a7148d4ee46c320f9f7df2_lec27.pdf
+file: /ol-ocw-studio-app/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/d651940de6a7148d4ee46c320f9f7df2_lec27.pdf
 file_size: 1452508
 file_type: application/pdf
 learning_resource_types:

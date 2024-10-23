@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation covering information on handling model and calibration
   error in inversions, optimal estimation examples and methane inverse studies using
   match.
-file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/aa5f163b36a066ac07b3c09cc7f4fc74_lec23.pdf
+file: /ol-ocw-studio-app/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/aa5f163b36a066ac07b3c09cc7f4fc74_lec23.pdf
 file_size: 479202
 file_type: application/pdf
 learning_resource_types:
