@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation covering aerosol charecterization experiment, match
   model predictions and measurement systems and estimation.
-file: /ol-ocw-studio-app/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/11854d81aa43169575be0a848fd6a05e_lec20.pdf
+file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/11854d81aa43169575be0a848fd6a05e_lec20.pdf
 file_size: 999520
 file_type: application/pdf
 learning_resource_types:
